@@ -1,0 +1,381 @@
+﻿@using HelloPJ.Models
+@model HelloPJ.Models.HomeModel
+@{
+    ViewData["Title"] = "寵物";
+    List<Pet> pet_list = (List<Pet>)ViewData["pet_list"];
+    List<Item> food_list = (List<Item>)ViewData["food_list"];
+    List<Item> toy_list = (List<Item>)ViewData["toy_list"];
+    List<Item> furniture_list = (List<Item>)ViewData["furniture_list"];
+    string main_user = ViewData["user_id"].ToString();
+}
+<script>
+    document.onload = function () {
+        /*餵食、玩耍、出遊 跳出頁*/
+        $('#myModal').on('shown.bs.modal', function () {
+            $('#myInput').trigger('focus')
+        });
+    }
+    // js.拖曳
+    var rDrag = {
+        o: null,
+        init: function (o) {
+            if (typeof (o.length) == 'number') {
+                for (x in o) {
+                    this.init(o[x]);
+                }
+            } else if (typeof (o) == 'object') {
+                o.onmousedown = this.start;
+            }
+        },
+        start: function (e) {
+            var o;
+            /*e = rDrag.fixEvent(e);*/
+            e.preventDefault && e.preventDefault();
+            rDrag.o = o = this;
+            o.x = rDrag.o.style.left;
+            o.y = rDrag.o.style.top;
+            /*o.x = rDrag.o.offsetLeft;
+            o.y = rDrag.o.offsetTop;*/
+            document.onmousemove = rDrag.move;
+            document.onmouseup = rDrag.end;
+        },
+        move: function (e) {
+            /*e = rDrag.fixEvent(e);*/
+            var oLeft, oTop;
+            oLeft = e.clientX-60;
+            oTop = e.clientY-140;
+            rDrag.o.style.left = oLeft + 'px';
+            rDrag.o.style.top = oTop + 'px';
+        },
+        end: function (e) {
+        /*e = rDrag.fixEvent(e);*/
+            $.ajax({             //傳遞家具座標訊息給後端 FurnitureReturn
+                type: "POST",
+                async: false,
+                data: {
+                    furniture_id: rDrag.o.id,
+                    furniture_left: rDrag.o.style.left,
+                    furniture_top: rDrag.o.style.top
+                },
+                datatype: 'json',
+                url: "/Home/FurnitureReturn"
+            });
+            rDrag.o = document.onmousemove = document.onmouseup = null;
+        },
+    }
+    window.onload = function () {
+        var obj = document.getElementsByClassName('draggable');
+        rDrag.init(obj);
+        $("ul.tab-buttons").on("click", "li", function () {
+            var index = $(this).index();
+            console.log(index);
+            $(this).addClass("active");
+            $(this).siblings().removeClass("active")
+            $("div.tab-contents>div").eq(index).addClass("show").siblings().removeClass("show")
+        });
+    }
+
+    //ajax 輪詢 
+    rPetanimate = {
+        start: function (e) {
+            console.log(e.id);
+            $.ajax({
+                type: "POST",
+                async: true,
+                data: { pet_id: e.id },
+                datatype: 'json',
+                url: "/Home/LongPolling",
+                success: function (msg) {
+                    $('#' + msg.pet).css({ "left": msg.px, "top": msg.py });
+                    $('#' + msg.pet).children().attr('src', "/images/home_item/" + msg.imgurl);
+                },
+                error: function (res) {
+                    console.log("error");
+                }
+            });
+        }
+    }
+    window.setInterval(function () { //輪詢幾隻的判斷
+        var obj = document.getElementsByClassName('petroom_pet');
+        if (obj.length >= 1) {
+            var step;
+            for (step = 0; step < obj.length; step++) {
+                rPetanimate.start(obj[step]);
+            }
+        }
+    }, 1000);
+</script>
+<style>
+    /* tab分頁結構 start */
+    /* 房間框*/
+    div#PetRoom {
+        width: 52rem;
+        height: 25rem;
+        border: 2px #3CAA1E solid;
+        float: left;
+        margin: 1rem 0 0 1rem;
+        position: relative;
+        background-image: url(/images/home_item/room_background.jpg);
+    }
+
+    /* 右邊 Tab分頁總結構 */
+    div#PetControlRight {
+        margin: 1rem 1.5rem 0 0;
+        float: right;
+    }
+
+    /* 圖形TAB */
+    ul.tab-buttons {
+        width: 15rem;
+        margin: auto;
+        display: flex;
+    }
+
+    div#PetControlRight > ul.tab-buttons > li {
+        margin: .5rem;
+    }
+
+    img.tab-img {
+        width: 5rem;
+        height: 5rem;
+    }
+
+    /* 對應 圖形TAB 的內容 */
+    div.tab-contents {
+        width: 15rem;
+        margin: auto;
+        display: flex;
+    }
+
+    div.tab-contents > div {
+            display: none;
+            border: 2px #3CAA1E solid;
+        }
+
+    div#PetControlRight > div.tab-contents > div.tab-content {
+        text-align: left;
+        overflow: hidden;
+        overflow: scroll;
+        width: 15rem;
+        height: 24rem;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+
+    /* 圖形TAB 配合Jq動作 */
+    .active {
+        background: #FF7BAC;
+    }
+
+    div.tab-contents > .show {
+        display: inline-block;
+    }
+
+    /* 全域 tab分頁結構 end */
+    div#PetControlBottom {
+        float: left;
+        margin: 1rem;
+    }
+
+    div#PetControlBottom > ul > li {
+            display: inline;
+    }
+
+    img.bottom-img {
+        margin-right: .5rem;
+        width: 8rem;
+        height: 4rem;
+    }
+
+    /*使用者擁有道具內容*/
+    li.StoreItems > form > img {
+        width: 3rem;
+        height: 3rem;
+    }
+
+    li.StoreItems > form {
+        width: 15rem;
+        height: 4rem;
+        display: inline-flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    img.petroom_furniture {
+        width: 120px;
+        height: 120px;
+        position: absolute;
+    }
+    /* JQ 互動視窗*/
+</style>
+<div class="text-center main-context">
+    <div id="PetRoom" style="overflow:hidden;">
+        <p id="logs" style="position: absolute;"></p>
+        @foreach (var item in furniture_list)
+        {
+            if (item.item_used == "t")
+            {
+                <img class="petroom_furniture draggable" id="@item.id" style="top: @item.position_top;left:@item.position_left;" src="~/images/home_item/@item.item_pic">
+            }
+        }
+        @foreach (var pet in pet_list)
+        {
+            <div class="petroom_pet" id="@pet.pet_id" style="position:absolute;top: @pet.position_top;left:@pet.position_left;">
+                <img class="tab-img" src="~/images/home_item/@pet.pet_pic">
+            </div>
+        }
+    </div>
+    <div id="PetControlRight" class="TabPage">
+        <div>
+            <ul class="tab-buttons">
+                <li class="active"><img class="tab-img" src="~/images/cattab.png" /></li>
+                <li><img img class="tab-img" src="~/images/furniture.png" /></li>
+            </ul>
+        </div>
+        <div class="tab-contents">
+            <div class="tab-content show">
+                @foreach (var pet in pet_list)
+                {
+                    <ul>
+                        <li>
+                            <br />
+                            &#9;<img style="height: 2.5rem; width: 2.5rem;" src="~/images/store_item/cat_1.png">&#9;&#9;&#9;&#9;@pet.pet_name
+                        </li>
+                    </ul>
+                }
+            </div>
+            <div class="tab-content">
+                <ul>
+                    @foreach (var item in furniture_list)
+                    {
+                        <li class="StoreItems">
+                            <form method="post" action="/Home/Set_Furniture">
+                                <img src="~/images/store_item/@item.item_pic" />
+                                @if (item.item_used == "t")
+                                {
+                                    <p>放置中</p>
+                                }
+                                else
+                                {
+                                    <p>未放置</p>
+                                }
+                                <input type="hidden" name="item_id" value=@item.id />
+                                <input type="submit" value="放置 / 收回" />
+                            </form>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="PetControlBottom" class="">
+        <ul class="tab-buttons">
+            <li style="background: rgba(0,255,204,0);border: 0px;vertical-align: top;padding: 0;" type="button" class="btn btn-primary" data-toggle="modal" data-target="#CatFoodModal">
+                <img class="bottom-img" src="/images/bottom-img01.png" />
+            </li>
+            <li style="background: rgba(0,255,204,0);border: 0px;vertical-align: top;padding: 0;" type="button" class="btn btn-primary" data-toggle="modal" data-target="#ToysModal">
+                <img class="bottom-img" src="/images/bottom-img02.png" />
+            </li>
+            <li style="background: rgba(0,255,204,0);border: 0px;vertical-align: top;padding: 0;" type="button" class="btn btn-primary" data-toggle="modal" data-target="#CatModal">
+                <img class="bottom-img" src="/images/bottom-img03.png" />
+            </li>
+        </ul>
+        <!-- 餵食跳出頁 -->
+        <div class="modal fade" id="CatFoodModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+             aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">貓貓的食物 餵貓貓罐罐</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <ul>
+                            @foreach (var item in food_list)
+                            {
+                                <li class="StoreItems">
+                                    <form method="post" action="/Home/Page_Home">
+                                        <img src="~/images/store_item/@item.item_pic" />
+                                        <p>數量:@item.item_quantity</p>
+                                        <input type="hidden" name="item_id" value=@item.id />
+                                        <input type="submit" value="使用" />
+                                    </form>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">按錯了 請關掉</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 玩耍跳出頁 -->
+        <div class="modal fade" id="ToysModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+             aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">貓貓的玩具 陪貓貓玩</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <ul>
+                            @foreach (var item in toy_list)
+                            {
+                                <li class="StoreItems">
+                                    <form method="post" action="/Home/Page_Home">
+                                        <img src="~/images/store_item/@item.item_pic" />
+                                        <p>數量:@item.item_quantity</p>
+                                        <input type="hidden" name="item_id" value=@item.id />
+                                        <input type="submit" value="使用" />
+                                    </form>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">按錯了 請關掉</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 出遊跳出頁 -->
+        <div class="modal fade" id="CatModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+             aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">選貓貓 去公園玩</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <ul>
+                            @foreach (var pet in pet_list)
+                            {
+                                <li class="StoreItems">
+                                    <form action="/Home/Page_Park">
+                                        <img style="height: 2.5rem; width: 2.5rem;" src="~/images/store_item/cat_1.png">
+                                        <p>名字:@pet.pet_name</p>
+                                        <input type="hidden" name="item_id" value=@pet.pet_id />
+                                        <input type="submit" value="使用" />
+                                    </form>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">按錯了 請關掉</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

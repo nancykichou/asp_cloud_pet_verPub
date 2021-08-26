@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-06-27T19:44:24.4733214Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "HelloPetPJ"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "9735bdbd-a696-4d87-a886-e158ba1e8abc"
+    }
+  }
+}

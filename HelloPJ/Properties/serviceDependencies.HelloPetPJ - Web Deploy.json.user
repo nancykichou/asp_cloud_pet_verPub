@@ -1,0 +1,17 @@
+{
+  "dependencies": {},
+  "parameters": {
+    "resourceGroup1": {
+      "Type": "resourceGroup",
+      "Value": "HelloPetPJ"
+    },
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "DefaultResourceGroup-CUS"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "9735bdbd-a696-4d87-a886-e158ba1e8abc"
+    }
+  }
+}

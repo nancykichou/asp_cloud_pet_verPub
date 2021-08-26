@@ -1,0 +1,43 @@
+﻿@using HelloPJ.Models
+@model HelloPJ.Models.Message
+@{
+    ViewData["Title"] = "ParkTalking";
+    Message mm = new Message();
+    string main_user = ViewData["user_id"].ToString();
+    string userName = ViewData["account_name"].ToString();
+    List<Message> message_list = (List<Message>)ViewData["message_list"];
+}
+<ul class="messages">
+    @if (message_list != null)
+    {
+        foreach (var user in message_list)
+        {
+            if (user.user_id.ToString() == main_user)
+            {
+                <li class="message right appeared">
+                    <div class="avatar">@user.account_name</div>
+                    <div class="text_wrapper">
+                        <div class="text">@user.message</div>
+                    </div>
+                </li>
+            }
+            else
+            {
+                <li class="message left appeared">
+                    <div class="avatar">@user.account_name</div>
+                    <div class="text_wrapper">
+                        <div class="text">@user.message</div>
+                    </div>
+                </li>
+            }
+        }
+    }
+    else
+    {
+        <li>
+            <div class="text_wrapper">
+                <div class="text">目前還沒有任何訊息!!</div>
+            </div>
+        </li>
+    }
+</ul>

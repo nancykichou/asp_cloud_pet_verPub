@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此檔案由您的 Web 專案發佈/封裝處理序使用。您可以藉由編輯此 MSBuild 檔案，
+自訂此處理序的行為。若要深入了解，請前往 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAyWa3HtlbWEiBsD237IA3uwAAAAACAAAAAAAQZgAAAAEAACAAAAAUPQLPVZ0SjPM+KjmNfNiFU0QwoptWbd0eLg4Uae835AAAAAAOgAAAAAIAACAAAAAAnutiAQIzkc2CCoS3SAmEYipIGytZf8GK+46b6dR7toAAAADB9xCR2hIOe26YYPVEVQ6rA4vrArmhKKN9ak94FfdrM7JSwsN9u/P/5YlK8tyDcacs01Q4/Ft5NIuvELob1ei7Ja9Nob5j6BRpGniucy8y1zpkymQ5OvhavyvEajH0Wv/olywohICfzhhyBqYra1nJ53FG48PNU8qiexdexphqJ0AAAAAK8nMYxr0zYqmJLCYAeuAxPpHMr8i6rWj9cfsQutVnM7ZTalk+Rlpo3imT61WM6xT0VPzx8mes2fMnbgDNMzIg</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source = (localdb)\\MSSQLLocalDB;Initial Catalog = HelloCat; Persist Security Info=True;User ID = hellopj; Password=nyannyan;Trusted_Connection=True" />
+    <AzureDBConnectionStrings Include="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=HelloCat;Persist Security Info=True;User ID=hellopj;Password=nyannyan" />
+    <AzureDBConnectionStrings Include="Data Source=tcp:hellopjdbserver.database.windows.net,1433;Initial Catalog=HelloPJ_db;User Id=hellopj@hellopjdbserver;Password=Nyan_Nyan" />
+  </ItemGroup>
+</Project>

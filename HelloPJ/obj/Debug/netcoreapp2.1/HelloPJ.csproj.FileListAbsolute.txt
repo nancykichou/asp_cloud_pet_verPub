@@ -1,0 +1,525 @@
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csprojAssemblyReference.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\user\Desktop\HelloCat\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\user\Desktop\HelloCat\HelloPJ\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\user\Desktop\HelloCat\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.deps.json
+C:\Users\user\Desktop\HelloCat\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.json
+C:\Users\user\Desktop\HelloCat\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.dev.json
+C:\Users\user\Desktop\HelloCat\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.dll
+C:\Users\user\Desktop\HelloCat\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.pdb
+C:\Users\user\Desktop\HelloCat\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.dll
+C:\Users\user\Desktop\HelloCat\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.input.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.output.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorCoreGenerate.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Home.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Pet.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_User.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.dll
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.pdb
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.genruntimeconfig.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CopyComplete
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index_Registration.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\bin\Debug\netcoreapp2.1\HelloPJ.deps.json
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.json
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.dev.json
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\bin\Debug\netcoreapp2.1\HelloPJ.dll
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\bin\Debug\netcoreapp2.1\HelloPJ.pdb
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\bin\Debug\netcoreapp2.1\HelloPJ.Views.dll
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\bin\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.csprojAssemblyReference.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.input.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.output.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.RazorCoreGenerate.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index_Registration.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Home.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Pet.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_User.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.dll
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.pdb
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.genruntimeconfig.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CopyComplete
+C:\Users\user\Desktop\HelloCat\HelloPJ - 複製\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Store.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Store.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\user\Desktop\HelloCat\HelloPJ\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.json
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.deps.json
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.json
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.dev.json
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.dll
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.pdb
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.dll
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csprojAssemblyReference.cache
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfoInputs.cache
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cache
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.input.cache
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.output.cache
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorCoreGenerate.cache
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index_Registration.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Home.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Pet.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Store.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_User.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cache
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.dll
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.pdb
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.genruntimeconfig.cache
+D:\DOWNLOAD\HelloPJ_0712\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CopyComplete
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.json
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.deps.json
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.json
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.dev.json
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.dll
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.pdb
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.dll
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csprojAssemblyReference.cache
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfoInputs.cache
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cache
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.input.cache
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.output.cache
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorCoreGenerate.cache
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index_Registration.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Home.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Pet.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Store.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_User.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cache
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.dll
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.pdb
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.genruntimeconfig.cache
+D:\DOWNLOAD\HelloPJ_0713_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CopyComplete
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.deps.json
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.json
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.dev.json
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.dll
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.pdb
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.dll
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csprojAssemblyReference.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.input.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.output.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorCoreGenerate.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index_Registration.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Home.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Pet.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Store.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_User.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.dll
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.pdb
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.genruntimeconfig.cache
+C:\Users\user\Desktop\HelloCat\HelloPJ_0718_nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CopyComplete
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.deps.json
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.json
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.dev.json
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.dll
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.pdb
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.dll
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csprojAssemblyReference.cache
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.input.cache
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.output.cache
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorCoreGenerate.cache
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index_Registration.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Home.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Pet.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Store.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_User.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.dll
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.pdb
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.genruntimeconfig.cache
+C:\Users\user\Desktop\HelloCat\0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CopyComplete
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.dll
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.pdb
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.json
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.deps.json
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.json
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.dev.json
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.dll
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.pdb
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.dll
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csprojAssemblyReference.cache
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfoInputs.cache
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cache
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.input.cache
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.output.cache
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorCoreGenerate.cache
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index_Registration.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Home.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Pet.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Store.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_User.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cache
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.genruntimeconfig.cache
+D:\DOWNLOAD\HelloPJ_0719\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CopyComplete
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.json
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.deps.json
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.json
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.dev.json
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.dll
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.pdb
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.dll
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csprojAssemblyReference.cache
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfoInputs.cache
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cache
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.input.cache
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.output.cache
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorCoreGenerate.cache
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index_Registration.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Home.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Pet.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Store.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_User.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cache
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.dll
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.pdb
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.genruntimeconfig.cache
+D:\DOWNLOAD\HelloPJ_0719 test\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CopyComplete
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.deps.json
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.json
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.dev.json
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.dll
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.pdb
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.dll
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csprojAssemblyReference.cache
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.input.cache
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.output.cache
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorCoreGenerate.cache
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index_Registration.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Home.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Pet.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Store.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_User.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.dll
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.pdb
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.genruntimeconfig.cache
+C:\Users\user\Desktop\HelloCat\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CopyComplete
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.json
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.deps.json
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.json
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.dev.json
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.dll
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.pdb
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.dll
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csprojAssemblyReference.cache
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfoInputs.cache
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfo.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cache
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.input.cache
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.output.cache
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorCoreGenerate.cache
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index_Registration.cshtml.g.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Home.cshtml.g.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park.cshtml.g.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Pet.cshtml.g.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Store.cshtml.g.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_User.cshtml.g.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cache
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cs
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.dll
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.pdb
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.genruntimeconfig.cache
+D:\DOWNLOAD\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CopyComplete
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.deps.json
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.json
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.dev.json
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.dll
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.pdb
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.dll
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csprojAssemblyReference.cache
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.input.cache
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.output.cache
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorCoreGenerate.cache
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index_Registration.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Home.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Pet.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Store.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_User.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.dll
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.pdb
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.genruntimeconfig.cache
+C:\Users\user\Desktop\HelloCat\0721_21pm\0721_21pm\0721\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CopyComplete
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.json
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.deps.json
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.json
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.dev.json
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.dll
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.pdb
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.dll
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csprojAssemblyReference.cache
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfoInputs.cache
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cache
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.input.cache
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.output.cache
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorCoreGenerate.cache
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index_Registration.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Home.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Pet.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Store.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_User.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cache
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.dll
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.pdb
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.genruntimeconfig.cache
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CopyComplete
+D:\DOWNLOAD\HelloPJ_22pm\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park_talking.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\bin\Debug\netcoreapp2.1\appsettings.json
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.deps.json
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.json
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.runtimeconfig.dev.json
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.dll
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.pdb
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.dll
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\bin\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfoInputs.cache
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.AssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cache
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.input.cache
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.TagHelpers.output.cache
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorCoreGenerate.cache
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index_Registration.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Home.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Park_talking.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Pet.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_Store.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Home\Page_User.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cache
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.RazorTargetAssemblyInfo.cs
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.Views.pdb
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.dll
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.pdb
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.genruntimeconfig.cache
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.CopyComplete
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.csproj.AssemblyReference.cache
+D:\DOWNLOAD\HelloPJ_23nancy\HelloPJ\obj\Debug\netcoreapp2.1\HelloPJ.GeneratedMSBuildEditorConfig.editorconfig

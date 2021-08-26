@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - HelloPets</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/resetCss.css" />
+    <link rel="stylesheet" href="~/css/index.css" />
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        // 當前導覽列 選項變色
+        window.onload=function(){
+            var url = window.location.pathname;
+            var CssQreue=document.querySelectorAll("a[href]");
+            if (url!="/Home/CustomerData")
+                CssQreue.forEach(function(item){
+                    if(item.pathname==url){
+                        item.style.backgroundColor="#FF7BAC";
+                    }
+                });
+            // Pethome PetStore Tab頁 控制項
+            $("ul.tab-buttons").on("click", "li", function () {
+                var index = $(this).index();
+                console.log(index);
+                $(this).addClass("active");
+                $(this).siblings().removeClass("active")
+                $("div.tab-contents>div").eq(index).addClass("show").siblings().removeClass("show")
+            });
+        }
+    </script>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow">
+            <div style="margin:0;padding:0;background-color: #3CAA1E;" class="container">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul style="padding-top: 1rem;padding-bottom: 0.5rem;padding-left: 2rem;" class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a style="color: #fff; background-color: #E6BA17; border-radius: 0.5rem; width: 3rem; line-height: 2rem;" class="nav-link" asp-area="" asp-controller="Home" asp-action="Page_Home">寵物</a>
+                        </li>
+                        <li class="nav-item">
+                            <link href="~/lib/bootstrap/dist/css/bootstrap-grid.css" rel="stylesheet" />
+                            <a style="color: #fff; background-color: #E6BA17; border-radius: 0.5rem; width: 3rem; line-height: 2rem;" class="nav-link" asp-area="" asp-controller="Home" asp-action="Page_Store">商店</a>
+                        </li>
+                        <li class="nav-item">
+                            <a style="color: #fff; background-color: #E6BA17; border-radius: 0.5rem; width: 3rem; line-height: 2rem;" class="nav-link" asp-area="" asp-controller="Home" asp-action="Page_Park">廣場</a>
+                        </li>
+                        <li style="flex-grow: 4;" class="nav-item">
+                            <a style="width: 3rem;line-height: 3rem;" class="nav-link"></a>
+                        </li>
+                        <li class="nav-item">
+                            <a style="color: #fff; background-color: #E6BA17; border-radius: 0.5rem; width: 3rem; line-height: 2rem;" class="nav-link" asp-area="" asp-controller="Home" asp-action="Log_out">登出</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Page_User"><img style="height: 2.5rem; width: 2.5rem; object-fit: contain;" src="~/images/id.svg" /></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div style="margin: 0;padding: 0;background-color: #EBF3DE" class="container">
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <!--<div style="margin:0;padding:0;" class="container">
+                &copy; 2021 - WebApplication1 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </div>-->
+    </footer>
+
+    <!--<script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>-->
+    @RenderSection("Scripts", required: false)
+</body>
+    </html>

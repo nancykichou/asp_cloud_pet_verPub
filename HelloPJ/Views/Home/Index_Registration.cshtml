@@ -1,0 +1,46 @@
+﻿@model HelloPJ.Models.Account
+@{
+    ViewData["Title"] = "註冊頁";
+}
+<div class="text-center main-context">
+    <h1 style="color: #3caa1e;padding:1rem;font-weight:500 ;font-size: 1.5rem; font-family: Noto Sans TC;" class="display-4">除了撸貓，還要註冊喔</h1>
+    @using (Html.BeginForm("Index_Registration", "Home", FormMethod.Post, new { @style = "float:right;margin:5rem;margin-top:3rem;margin-right:15rem;" ,enctype = "multipart/form-data"}))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true, "", new { })
+
+<table>
+    <tr>
+        <td>@Html.LabelFor(model => model.user_name, new { @style = "margin:1rem;line-height:2rem;color:#3caa1e;font-weight:500 ;font-size: 1.5rem;font-family: Noto Sans TC;" })</td>
+        <td>
+            @Html.TextBoxFor(model => model.user_name, new { @style = "margin-top:1rem;margin-bottom:1rem;line-height:2rem;" })
+            @Html.ValidationMessageFor(model => model.user_name, "", new { @style = "margin-top:1rem;margin-bottom:1rem;line-height:2rem;" })
+        </td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.user_passwd, new { @style = "margin:1rem;line-height:2rem;color:#3caa1e;font-weight:500 ;font-size: 1.5rem;font-family: Noto Sans TC;" })</td>
+        <td>
+            @Html.TextBoxFor(model => model.user_passwd, new { @style = "margin-top:1rem;margin-bottom:1rem;line-height:2rem;", Type = "password" })
+            @Html.ValidationMessageFor(model => model.user_passwd, "", new { @style = "margin-top:1rem;margin-bottom:1rem;line-height:2rem;"})
+        </td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.account_name, new { @style = "margin:1rem;line-height:2rem;color:#3caa1e;font-weight:500 ;font-size: 1.5rem;font-family: Noto Sans TC;" })</td>
+        <td>
+            @Html.TextBoxFor(model => model.account_name, new { @style = "margin-top:1rem;margin-bottom:1rem;line-height:2rem;" })
+            @Html.ValidationMessageFor(model => model.account_name, "", new { @style = "margin-top:1rem;margin-bottom:1rem;line-height:2rem;" })
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <input style="padding:.5rem;margin-top:1rem;margin-bottom:1rem;line-height:2rem;width:15rem;margin-left:2rem;background-color: transparent;color:#3caa1e;font-weight:500 ;font-size: 1.5rem;font-family: Noto Sans TC;border:2px #3caa1e solid;border-radius:1rem;" type="submit" value="資料送出">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <p style="color:#ED1E79;font-weight:500 ;font-size: 1.5rem;font-family: Noto Sans TC;">@ViewData["index_message"]</p>
+        </td>
+    </tr>
+</table>
+    }
+</div>

@@ -1,0 +1,227 @@
+﻿@model HelloPJ.Models.Item
+@{
+    ViewData["Title"] = "商店";
+    List<Item> food_list = (List<Item>)ViewData["food_list"];
+    List<Item> toy_list = (List<Item>)ViewData["toy_list"];
+    List<Item> furniture_list = (List<Item>)ViewData["furniture_list"];
+    List<Item> pet_list = (List<Item>)ViewData["pet_list"];
+    string user_id = ViewData["user_id"].ToString();
+}
+<script>
+$(document).ready(function(){
+    $('p#inStore').addClass('show');
+});
+</script>
+<style>
+    /* tab分頁結構 start */
+    /* 店員框 + 店員對話*/
+    div#StoreControlLeft {
+        width: 42rem;
+        height: 30rem;
+        float: left;
+        margin: 1rem 0 0 1rem;
+        position: relative;
+    }
+    /* 店員對話框*/
+    .takingBubble {
+        position: absolute;
+        background-color: rgba(60, 170, 30, 0.6);
+        border-radius: .4em;
+        width: 20rem;
+        height: 10rem;
+        top: 20rem;
+        left: 20rem;
+        padding: 1.2rem;
+    }
+
+        .takingBubble:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            width: 0;
+            height: 0;
+            border: 1.063em solid transparent;
+            border-bottom-color: #3caa1e;
+            border-top: 0;
+            border-left: 0;
+            margin-left: -0.531em;
+            margin-top: -1.062em;
+        }
+
+        .takingBubble p {
+            color: #FFF;
+            font-family: '微軟正黑體';
+            text-align: center;
+            font-size: 1rem;
+            line-height: 1.6rem;
+        }
+
+
+    /* 右邊 Tab分頁總結構 */
+    div#StoreControlRight {
+        margin: 1rem 1.5rem 0 0;
+        float: right;
+    }
+
+    /* 圖形TAB */
+    ul.tab-buttons {
+        width: 25rem;
+        margin: auto;
+        display: flex;
+    }
+
+    div#StoreControlRight > ul.tab-buttons > li {
+        margin: .5rem;
+    }
+
+    img.tab-img, li.StoreItems > form > img {
+        width: 3rem;
+        height: 3rem;
+    }
+
+    /* 對應 圖形TAB 的內容 */
+    div.tab-contents {
+        width: 25rem;
+        margin: auto;
+        display: flex;
+    }
+
+        div.tab-contents > div {
+            display: none;
+            border: 2px #3CAA1E solid;
+        }
+
+    div#StoreControlRight > div.tab-contents > div.tab-content {
+        text-align: left;
+        overflow: hidden;
+        overflow: scroll;
+        width: 25rem;
+        height: 24rem;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+
+    li.StoreItems > form {
+        width: 25rem;
+        height: 4rem;
+        display: inline-flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    /* 圖形TAB 配合Jq動作 */
+    .active {
+        background: #FF7BAC;
+    }
+
+    div.tab-contents > .show {
+        display: inline-block;
+    }
+
+    /* 全域 tab分頁結構 end */
+
+    div.tab-contents > div {
+        display: none;
+        border: 2px #3CAA1E solid;
+    }
+
+    /* 店員互動對話*/
+    div.takingBubble > p {
+        display: none;
+    }
+
+    div.takingBubble > .show {
+        display: inline-block;
+    }
+</style>
+
+<div class="text-center main-context">
+    <div id="StoreControlLeft">
+        <img style="height:100%;float:left;" src="/images/storesaller01.png">
+        <div class="takingBubble">
+            <p id="inStore" style="white-space:pre"> @ViewData["seller_message"] </p>
+        </div>
+    </div>
+    <div id="StoreControlRight" class="TabPage">
+        <ul class="tab-buttons">
+            <li class="active"><img class="tab-img" src="~/images/store_item/catfoods.png" /></li>
+            <li><img class="tab-img" src="~/images/store_item/cattoys.png" /></li>
+            <li><img class="tab-img" src="~/images/store_item/furniture.png" /></li>
+            <li><img class="tab-img" src="~/images/store_item/cattab.png" /></li>
+        </ul>
+        <div class="tab-contents">
+            <div class="tab-content show">
+                @foreach (var item in food_list)
+                {
+                    <ul>
+                        <li class="store_item">
+                            <form action="/Home/Page_Buy" method="post">
+                                <br />
+                                &#9;<img style="height: 3rem; width: 3rem;" src="~/images/store_item/@item.item_pic">&#9;&#9;&#9;&#9;@item.item_name&#9;&#9;&#9;&#9;&#9;價格:@item.item_price<br />
+                                <input type="text" name="num" placeholder="想買的數量...">
+                                <input type="hidden" name="item_id" value="@item.item_id" />
+                                <input type="hidden" name="user_id" value=@user_id />
+                                <input type="submit" value="購買" />
+                            </form>
+                        </li>
+                    </ul>
+                }
+            </div>
+            <div class="tab-content">
+                @foreach (var item in toy_list)
+                {
+                    <ul>
+                        <li class="store_item">
+                            <form action="/Home/Page_Buy" method="post">
+                                <br />
+                                &#9;<img style="height: 3rem; width: 3rem;" src="~/images/store_item/@item.item_pic">&#9;&#9;&#9;&#9;@item.item_name&#9;&#9;&#9;&#9;&#9;價格:@item.item_price&#9;&#9;&#9;&#9;&#9;<br />
+                                <input type="text" name="num" placeholder="想買的數量...">
+                                <input type="hidden" name="num" value="1">
+                                <input type="hidden" name="item_id" value="@item.item_id" />
+                                <input type="hidden" name="user_id" value=@user_id />
+                                <input type="submit" value="購買" />
+                            </form>
+                        </li>
+                    </ul>
+                }
+            </div>
+            <div class="tab-content">
+                @foreach (var item in furniture_list)
+                {
+                    <ul>
+                        <li class="store_item">
+                            <form action="/Home/Page_Buy" method="post">
+                                <br />
+                                &#9;<img style="height: 3rem; width: 3rem;" src="~/images/store_item/@item.item_pic">&#9;&#9;&#9;&#9;@item.item_name&#9;&#9;&#9;&#9;&#9;價格:@item.item_price&#9;&#9;&#9;&#9;&#9;<br />
+                                <input type="text" name="num" placeholder="想買的數量...">
+                                <input type="hidden" name="num" value="1">
+                                <input type="hidden" name="item_id" value="@item.item_id" />
+                                <input type="hidden" name="user_id" value=@user_id />
+                                <input type="submit" value="購買" />
+                            </form>
+                        </li>
+                    </ul>
+                }
+            </div>
+            <div class="tab-content">
+                @foreach (var item in pet_list)
+                {
+                    <ul>
+                        <li class="store_item">
+                            <form action="/Home/Page_getPet" method="post">
+                                <br />
+                                &#9;<img style="height: 3rem; width: 3rem;" src="~/images/store_item/@item.item_pic">&#9;&#9;&#9;&#9;@item.item_name<br />
+                                <input type="text" name="pet_name" placeholder="為您的寵物取個名字吧!!">
+                                <input type="hidden" name="pet_type" value="@item.item_price" />
+                                <input type="hidden" name="user_id" value=@user_id />
+                                <input type="submit" value="領養" />
+                            </form>
+                        </li>
+                    </ul>
+                }
+            </div>
+        </div>
+    </div>
+</div>
